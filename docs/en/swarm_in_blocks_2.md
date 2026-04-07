@@ -62,7 +62,7 @@ Swarm in Blocks is a CopterHack 2022 project. It's a high-level interface based 
     <img width="500" src="https://raw.githubusercontent.com/Grupo-SEMEAR-USP/swarm_in_blocks/master/assets/intro/ring.gif" />
 </p>
 
-For more information on our project from last year, see our final article in [Swarm in Blocks 2022](https://clover.coex.tech/en/swarm_in_blocks.html). In addition, we also recommend watching our final video from last year, [Swarm in Blocks 2022 - Final Video](https://www.youtube.com/watch?v=5C-1rRnyiE8).
+For more information on our project from last year, see our final article in [Swarm in Blocks 2022](https://clovercoex.tech/en/swarm_in_blocks.html). In addition, we also recommend watching our final video from last year, [Swarm in Blocks 2022 - Final Video](https://www.youtube.com/watch?v=5C-1rRnyiE8).
 
 Even with the huge facilities that the block platform offers, we realized that this was just the *tip of the iceberg* when it comes to deploying real swarms. Several other operational and conceptual problems in validating a real swarm still haunted the general public. With that, this year's project comes precisely with the purpose of **tackling the main problems in validating a Swarm in a simple and polished way**.
 

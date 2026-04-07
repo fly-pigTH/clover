@@ -1,4 +1,4 @@
-# Information: https://clover.coex.tech/en/simple_offboard.html#gettelemetry
+# Information: https://clovercoex.tech/en/simple_offboard.html#gettelemetry
 
 import rospy
 from clover import srv

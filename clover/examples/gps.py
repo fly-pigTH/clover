@@ -1,4 +1,4 @@
-# Information: https://clover.coex.tech/en/simple_offboard.html#navigateglobal
+# Information: https://clovercoex.tech/en/simple_offboard.html#navigateglobal
 
 import rospy
 from clover import srv
@@ -16,7 +16,7 @@ set_attitude = rospy.ServiceProxy('set_attitude', srv.SetAttitude)
 set_rates = rospy.ServiceProxy('set_rates', srv.SetRates)
 land = rospy.ServiceProxy('land', Trigger)
 
-# https://clover.coex.tech/en/snippets.html#wait_arrival
+# https://clovercoex.tech/en/snippets.html#wait_arrival
 def wait_arrival(tolerance=0.2):
     while not rospy.is_shutdown():
         telem = get_telemetry(frame_id='navigate_target')
@@ -27,7 +27,7 @@ def wait_arrival(tolerance=0.2):
 start = get_telemetry()
 
 if math.isnan(start.lat):
-    raise Exception('No global position, install and configure GPS sensor: https://clover.coex.tech/gps')
+    raise Exception('No global position, install and configure GPS sensor: https://clovercoex.tech/gps')
 
 print('Start point global position: lat={}, lon={}'.format(start.lat, start.lon))
 

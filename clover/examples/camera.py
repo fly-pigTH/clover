@@ -1,4 +1,4 @@
-# Information: https://clover.coex.tech/camera
+# Information: https://clovercoex.tech/camera
 
 # Example on basic working with the camera and image processing:
 

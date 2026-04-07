@@ -4,7 +4,7 @@ Blockly programming support for Clover.
 
 <img src="screenshot.png" width=700>
 
-See user documentation at the [main Clover documentation site](https://clover.coex.tech/en/blocks.html).
+See user documentation at the [main Clover documentation site](https://clovercoex.tech/en/blocks.html).
 
 Internal package documentation is given below.
 

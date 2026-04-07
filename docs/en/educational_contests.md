@@ -9,7 +9,7 @@ The main goal of the contest is aerial robotics popularization  and community de
 ### Lecture requirements
 
 * The topic of the lecture is of free choice. Programmable quadcopter kit COEX Clover 4 and/or The Clover simulation environment should be used as the main tool in the lecture.
-  > **Note** *The version of COEX Clover is not earlier than [version 4](https://clover.coex.tech/en/assemble_4.html). The virtual machine image is not earlier than [version 1.0](https://github.com/CopterExpress/clover_vm/releases/tag/v1.0).
+  > **Note** *The version of COEX Clover is not earlier than [version 4](https://clovercoex.tech/en/assemble_4.html). The virtual machine image is not earlier than [version 1.0](https://github.com/CopterExpress/clover_vm/releases/tag/v1.0).
 * The video is uploaded on YouTube or another public platform and is public accessible.
 * The language of the lecture is any. The video contains subtitles in English in case the language is made neither of English nor Russian.
 * The duration of the lecture is limited from 15 min. to 3 hours.
@@ -47,7 +47,7 @@ The main goal of the contest is aerial robotics popularization  and community de
 ### Lesson requirements
 
 * Programmable quadcopter kit COEX Clover 4 should be used as the main tool for the lesson.
-  > **Note** *The version of COEX Clover is not earlier than [version 4](https://clover.coex.tech/en/assemble_4.html).
+  > **Note** *The version of COEX Clover is not earlier than [version 4](https://clovercoex.tech/en/assemble_4.html).
 * Integration of the quadcopter into any of the general education disciplines (physics, mathematics, computer science, etc.).
 * Practical use of the main tool in the lesson.
 * Grade - no restrictions (primary, high school).
@@ -88,7 +88,7 @@ The course is evaluated according to a separate, publicly available lesson submi
 
 * The course is related to the direction of Aerial robotics.
 * Programmable quadcopter kit COEX Clover 4 and/or The Clover simulation environment should be used as the main tool in the course;
-  > **Note** *The version of COEX Clover is not earlier than [version 4](https://clover.coex.tech/en/assemble_4.html). The virtual machine image is not earlier than [version 1.0](https://github.com/CopterExpress/clover_vm/releases/tag/v1.0).
+  > **Note** *The version of COEX Clover is not earlier than [version 4](https://clovercoex.tech/en/assemble_4.html). The virtual machine image is not earlier than [version 1.0](https://github.com/CopterExpress/clover_vm/releases/tag/v1.0).
 * The course is located on a public platform (e.g., Coursera).
 * The course can be either paid or free of charge. One public lesson from the course is submitted for the competition;
 * The lesson submitted for the contest should be publicly accessible.

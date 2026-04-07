@@ -14,4 +14,4 @@
 
 Чат по разработке самой платформы Клевера и образа для RPi: [@devclover](https://t.me/devclover).
 
-Вы можете скачать [PDF-версию](https://clover.coex.tech/clover_ru.pdf) этой документации. The English version of this documentation [is available](../en/).
+Вы можете скачать [PDF-версию](https://clovercoex.tech/clover_ru.pdf) этой документации. The English version of this documentation [is available](../en/).

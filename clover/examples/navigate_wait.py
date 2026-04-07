@@ -1,4 +1,4 @@
-# Information: https://clover.coex.tech/en/snippets.html#navigate_wait
+# Information: https://clovercoex.tech/en/snippets.html#navigate_wait
 
 import math
 import rospy

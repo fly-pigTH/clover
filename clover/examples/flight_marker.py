@@ -1,4 +1,4 @@
-# Information: https://clover.coex.tech/aruco
+# Information: https://clovercoex.tech/aruco
 
 import rospy
 from clover import srv

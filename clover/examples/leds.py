@@ -1,4 +1,4 @@
-# Information: https://clover.coex.tech/led
+# Information: https://clovercoex.tech/led
 
 import rospy
 from clover.srv import SetLEDEffect

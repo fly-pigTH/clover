@@ -50,6 +50,6 @@ To start connection to the flight controller, use:
 roslaunch clover clover.launch
 ```
 
-For the simulation information see the [corresponding article](https://clover.coex.tech/en/simulation.html).
+For the simulation information see the [corresponding article](https://clovercoex.tech/en/simulation.html).
 
 > Note that the package is configured to connect to `/dev/px4fmu` by default (see [previous section](#manual-installation)). Install udev rules or specify path to your FCU device in `mavros.launch`.

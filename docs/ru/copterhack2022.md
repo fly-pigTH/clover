@@ -58,7 +58,7 @@ CopterHack 2022 — это международный конкурс по ра�
 Команды приглашаются принять участие в работе над следующими кейсами компании:
 
 1. Разработка платы полетного контроллера Pixhawk FMUv6U размером 55*40 мм и возможностью установки Raspberry Pi CM4.
-2. Облачная платформа для [симулятора Клевера](https://clover.coex.tech/ru/simulation.html) по аналогии или на основе [ROS Development Studio](https://app.theconstructsim.com/).
+2. Облачная платформа для [симулятора Клевера](https://clovercoex.tech/ru/simulation.html) по аналогии или на основе [ROS Development Studio](https://app.theconstructsim.com/).
 
 Список кейсов может быть расширен.
 
